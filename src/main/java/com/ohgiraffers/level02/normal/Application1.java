@@ -10,6 +10,7 @@ public class Application1 {
 		 * -- 출력 예시 --
 		 * 문자 a의 unicode : 97
 		 * */
+
 		char a=97;
 		System.out.println("문자형 'a'의 unicode"+a);
 	}
