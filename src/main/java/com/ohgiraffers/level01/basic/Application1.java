@@ -14,7 +14,6 @@ public class Application1 {
 		 * 나누기한 몫 : 0
 		 * 나누기한 나머지 : 20
 		 * */
-		dddd
 	}
 
 }
