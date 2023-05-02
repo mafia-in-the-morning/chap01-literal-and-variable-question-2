@@ -13,6 +13,7 @@ public class Application1 {
 
 		char a=97;
 		System.out.println("문자형 'a'의 unicode"+a);
+		System.out.println();
 	}
 
 }
