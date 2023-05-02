@@ -15,6 +15,7 @@ public class Application2 {
 		float math = 50.6f;
 		float english = 70.8f;
 
+
 		int sum = (int)(korean+math+english);
 		int average=(int)(sum/3);
 
